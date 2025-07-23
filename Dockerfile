@@ -1,6 +1,6 @@
 FROM ubuntu:24.04
 ENV DEBIAN_FRONTEND=noninteractive
-ENV TZ=america/los_angeles
+ENV TZ=america/sao_paulo
 
 
 # Base packages
